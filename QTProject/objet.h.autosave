@@ -1,0 +1,16 @@
+#ifndef OBJET_H
+#define OBJET_H
+
+class Objet(){
+    private:
+    int centreX;
+    int centreY;
+    int r;
+    
+    public:
+    
+}
+
+
+
+#endif // OBJET_H
