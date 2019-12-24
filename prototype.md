@@ -11,3 +11,6 @@
 - source :  heritee de objet ? cible rayons
 
 a voir apres : calcul droite camera dans espace
+sources:
+http://www.ccs.neu.edu/home/fell/CS4300/Lectures/Ray-TracingFormulas.pdf
+https://fr.wikipedia.org/wiki/Ombrage_de_Phong
